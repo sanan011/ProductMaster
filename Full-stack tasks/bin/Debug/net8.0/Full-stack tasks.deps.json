@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Full-stack tasks/1.0.0": {
+        "runtime": {
+          "Full-stack tasks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Full-stack tasks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
